@@ -103,7 +103,7 @@ Time Intelligence functions were applied to analyze growth patterns and performa
 
 ## 5️⃣ Dashboard Design & Reporting
 
-![Executive Dashboard](images/dashboard.png)
+![Executive Dashboard](Images/map_filter.png)
 
 An executive-focused dashboard was designed to:
 
@@ -123,6 +123,7 @@ The layout was structured for decision-makers rather than technical users.
 - DAX
 - Data Modeling (Star Schema)
 - Time Intelligence Functions
+
 
 ---
 
