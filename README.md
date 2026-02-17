@@ -55,7 +55,7 @@ At this stage, the focus was translating raw data into business questions.
 
 ## 2️⃣ Data Preparation (Power Query)
 
-![Power Query](images/power_query.png)
+![Power Query](Images/power_query.png)
 
 The dataset was already clean and structured.  
 Power Query was used to:
@@ -70,7 +70,7 @@ This ensured data consistency before modeling and analysis.
 
 ## 3️⃣ Data Modeling (Star Schema)
 
-![Data Model](images/data_model.png)
+![Data Model](Images/data_model.png)
 
 A Star Schema model was designed to:
 
