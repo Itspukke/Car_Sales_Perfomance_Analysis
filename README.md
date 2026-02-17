@@ -1,6 +1,6 @@
 # 🚗 Car Sales Performance Analysis | Business Intelligence Project
 
-![Executive Dashboard](Images/car_sales.png)
+![Executive Dashboard](Images/Car_sales.png)
 
 ---
 
