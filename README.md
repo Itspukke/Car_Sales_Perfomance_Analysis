@@ -162,4 +162,12 @@ These KPIs allow leadership to evaluate growth while protecting profitability.
 - Strengthen partnerships with top-performing brands.
 - Use weekly sales trends to improve forecasting accuracy
 ---
+# 📬 Contact
+**Tshedza Tshipuke**  
+Aspiring Data Analyst  
+
+- GitHub: https://github.com/Itspukke 
+- LinkedIn: www.linkedin.com/in/tshedza-tshipuke-468516119
+
+
 
