@@ -41,7 +41,7 @@ Management needed a centralized performance dashboard to support strategic decis
 
 This project followed a structured Business Analysis workflow from data intake to strategic recommendations.
 
----
+
 
 ## 1️⃣ Data Understanding
 
