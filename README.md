@@ -2,7 +2,7 @@
 
 ![Executive Dashboard](Images/Car_sales.png)
 
----
+
 
 # 📌 Project Overview
 
