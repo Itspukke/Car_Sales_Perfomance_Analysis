@@ -85,6 +85,9 @@ This structure supports reliable KPI calculation and time-based analysis.
 
 ## 4️⃣ KPI Development (DAX)
 
+![KPI](Images/KPI.png)
+
+
 DAX measures were created to calculate:
 
 - Total Revenue
