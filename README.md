@@ -36,6 +36,83 @@ Management needed a centralized performance dashboard to support strategic decis
 
 ---
 
+
+# 🔄 Project Workflow (Start to Finish)
+
+This project followed a structured Business Analysis workflow from data intake to strategic recommendations.
+
+---
+
+## 1️⃣ Data Understanding
+
+- Reviewed dataset structure and available fields
+- Identified key business metrics (Revenue, Profit, Units Sold, Date, Region, Vehicle Model)
+- Defined analytical objectives aligned with business performance evaluation
+
+At this stage, the focus was translating raw data into business questions.
+
+---
+
+## 2️⃣ Data Preparation (Power Query)
+
+![Power Query](images/power_query.png)
+
+The dataset was already clean and structured.  
+Power Query was used to:
+
+- Replace inconsistent values
+- Standardize categorical fields
+- Prepare columns for accurate aggregation
+
+This ensured data consistency before modeling and analysis.
+
+---
+
+## 3️⃣ Data Modeling (Star Schema)
+
+![Data Model](images/data_model.png)
+
+A Star Schema model was designed to:
+
+- Separate fact and dimension tables
+- Establish primary and foreign key relationships
+- Ensure correct aggregation logic
+- Improve scalability and performance
+
+This structure supports reliable KPI calculation and time-based analysis.
+
+---
+
+## 4️⃣ KPI Development (DAX)
+
+DAX measures were created to calculate:
+
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- Units Sold
+- Year-to-Date (YTD) Sales
+- Monthly Sales Trends
+
+Time Intelligence functions were applied to analyze growth patterns and performance trends over time.
+
+---
+
+## 5️⃣ Dashboard Design & Reporting
+
+![Executive Dashboard](images/dashboard.png)
+
+An executive-focused dashboard was designed to:
+
+- Highlight core KPIs at the top level
+- Allow filtering by region, vehicle, and time
+- Enable drill-down analysis
+- Present clear visual comparisons
+
+The layout was structured for decision-makers rather than technical users.
+
+---
+
 # 🛠 Tools Used
 
 - Power BI
